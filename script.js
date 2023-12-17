@@ -98,12 +98,6 @@ function move() {
   }
 }
 
-//Testing moving
-// setInterval(() => {
-//   move();
-//   draw();
-// }, 200);
-
 //Start Game
 function StartGame() {
   gameStarted = true; //Keep track of a running game
